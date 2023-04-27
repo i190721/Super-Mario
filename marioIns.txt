@@ -1,0 +1,13 @@
+
+Use arrow keys to move. 
+Use left and right arrow keys to move 
+mario left and right. 
+Press up arrow key to jump over the 
+hurdles. 
+Dodge the enemies and the dragon's 
+fireballs. 
+To win, reach the flag in Level 1 and 
+Level 2. 
+Win the game by reaching the Kingdom in Level 3.
+PRESS ENTER TO PLAY!
+PRESS ESC TO EXIT. Press B to go Back.
